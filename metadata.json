@@ -1,0 +1,6 @@
+{
+  "name": "AniVerse - Anime Streaming Platform",
+  "description": "A bright, modern light-theme anime streaming platform with curated catalog, video player, user profiles, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
